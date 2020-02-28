@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="click"
-        android:text="ADD" />
+        android:text="@string/addButton" />
 
     <TableRow
         android:layout_width="match_parent"
@@ -38,12 +38,12 @@
             android:layout_width="182dp"
             android:layout_height="match_parent"
             android:paddingLeft="5dp"
-            android:text="Version" />
+            android:text="@string/versionHeader" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="|Code Name" />
+            android:text="@string/CodenameHeader" />
 
     </TableRow>
 
@@ -56,12 +56,12 @@
         <TextView
             android:layout_width="182dp"
             android:layout_height="match_parent"
-            android:text="Android 9.0" />
+            android:text="@string/Android9" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="|Pie" />
+            android:text="@string/Pie" />
 
     </TableRow>
 
@@ -74,12 +74,12 @@
         <TextView
             android:layout_width="182dp"
             android:layout_height="match_parent"
-            android:text="Android 8.0" />
+            android:text="@string/Android8" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="|Oreo" />
+            android:text="@string/Oreo" />
 
     </TableRow>
 

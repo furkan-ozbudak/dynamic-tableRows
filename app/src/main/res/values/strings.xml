@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Table Layout Test</string>
+    <string name="addButton">ADD</string>
+    <string name="versionHeader">Version</string>
+    <string name="CodenameHeader">Code Name</string>
+    <string name="Android9">Android 9.0</string>
+    <string name="Android8">Android 8.0</string>
+    <string name="Pie">Pie</string>
+    <string name="Oreo">Oreo</string>
 </resources>
