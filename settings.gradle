@@ -1,0 +1,2 @@
+rootProject.name='Table Layout Test'
+include ':app'
